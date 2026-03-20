@@ -8,4 +8,3 @@ while True:
         print("Invalid input. Please enter a valid number or a letter t3o stop.")
         break
 print("The lowest number entered is:", lowest)
-3
